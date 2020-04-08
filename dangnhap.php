@@ -11,7 +11,7 @@
 
 	if($data=mysqli_fetch_array($result))
 	{
-		echo '1';
+		echo 'success';
 	}
 	
 ?>
